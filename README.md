@@ -1,2 +1,2 @@
 # Gemu
-Windows Multi-System Emulator
+Multi-System Emulator for Windows
