@@ -1,2 +1,2 @@
 # GameGem
-Multi-System Emulator
+Windows Multi-System Emulator
